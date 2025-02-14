@@ -16,6 +16,6 @@ export class ProductListComponent {
   }
 
   onNotify() {
-    window.alert('You will be notified when the product is available in stock');
+    window.alert('You will be notified when the product out of stock');
   }
 }
